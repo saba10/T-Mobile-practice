@@ -1,0 +1,6 @@
+com\example\demo\repo\RabbitRepo.class
+com\example\demo\model\RabbitModel.class
+com\example\demo\RabbitMqListenerApplication.class
+com\example\demo\service\RabbitService.class
+com\example\demo\config\RabbitConfiguration.class
+com\example\demo\controller\RabbitController.class

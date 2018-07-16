@@ -1,0 +1,10 @@
+com\example\demo\repo\RabbitRepoTest.class
+com\example\demo\config\TestAll.class
+com\example\demo\controller\RabbitControllerTest.class
+com\example\demo\model\RabbitModelTest.class
+com\example\demo\service\TestAll.class
+com\example\demo\model\TestAll.class
+com\example\demo\config\RabbitConfigurationTest.class
+com\example\demo\controller\TestAll.class
+com\example\demo\service\RabbitServiceTest.class
+com\example\demo\TestAll.class
