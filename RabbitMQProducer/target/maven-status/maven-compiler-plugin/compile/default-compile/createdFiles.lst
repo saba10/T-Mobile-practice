@@ -1,0 +1,5 @@
+com\example\demo\controller\RabbitMQController.class
+com\example\demo\RabbitMqProducerApplication.class
+com\example\demo\model\RabbitModel.class
+com\example\demo\config\RabbitConfiguration.class
+com\example\demo\Service\RabbitMQService.class
