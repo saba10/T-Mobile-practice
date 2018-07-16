@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Config-server-microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sabrmc
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Config-server-microservice
+Created-By: Maven Integration for Eclipse
+
